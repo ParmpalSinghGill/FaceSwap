@@ -101,6 +101,6 @@ def Experiments():
 	# res=get_face_analyser().get(frame)
 	# print(res)
 
-# MANYTOMANNY(source="",target="/media/parmpal/Data/Media/Pictures/NotOpen/porn/")
+# MANYTOMANNY(source="",target="")
 
-ReplaceAllWith("/home/parmpal/Downloads/IMG_20231112_144401.jpg", targetFolder="/media/parmpal/Data/Media/Pictures/NotOpen/porn/")
+# ReplaceAllWith("", targetFolder="")
